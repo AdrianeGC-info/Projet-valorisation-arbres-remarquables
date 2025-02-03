@@ -1,0 +1,69 @@
+001c,001p,Arbre à gomme,Chine
+001c,002p,Arbre aux pochettes d'argent,Chine
+001c,003p,Arbre aux quarante écus,Chine
+002c,004p,Aulne à feuilles en cœur,Corse
+002c,005p,Bouleau noir,Corse
+003c,006p,Catalpa commun,USA
+003c,007p,Catalpa du Nord,USA
+004c,009p,Cèdre bleu du Liban,Liban
+004c,010p,Cèdre du Liban,Liban
+001c,011p,Cédrèle de Chine,Chine
+005c,012p,Chêne chevelu,Turquie
+006c,013p,Chêne de Hongrie,Hongrie
+007c,014p,Chêne liège,Portugal
+008c,015p,Chêne pédonculé,France
+008c,016p,Chêne vert,France
+009c,017p,Chicot du Canada,Canada
+010c,018p,Cryptomère du Japon,Japon
+003c,019p,Cryptomère du Japon,USA
+011c,020p,Désespoir des singes,Chili
+012c,021p,Érable à feuilles d'obier,Italie
+003c,022p,Érable argenté,USA
+013c,023p,Érable de Cappadoce,Géorgie
+008c,024p,Erable de Montpellier,France
+008c,025p,Érable sycomore,France
+014c,026p,Figuier,Azerbaïdjan
+015c,027p,Frêne commun,Allemagne
+016c,028p,Grenadier commun,Iran
+008c,029p,Hêtre 'riversii',France
+008c,030p,Hêtre commun,France
+008c,031p,Hêtre pleureur,France
+008c,032p,Hêtre pourpre,France
+008c,033p,Hêtre tortueux,France
+008c,034p,If commun,France
+003c,035p,Magnolias à grandes fleurs,USA
+017c,036p,Margousier,Inde
+003c,037p,Marronnier de Virginie,USA
+017c,038p,Marronniers d'Inde,Inde
+001c,039p,Métaséquoia,Chine
+018c,040p,Métaséquoia,Corée du Sud
+008c,041p,Micocoulier de Provence,France
+001c,042p,Mûrier blanc,Chine
+001c,043p,Mûrier commun,Chine
+005c,044p,Noisetier de Byzance,Turquie
+001c,045p,Noyer de Chine,Chine
+016c,046p,Noyer du Caucase,Iran
+003c,047p,Noyer noir,USA
+003c,048p,Oranger des Osages,USA
+019c,049p,Orme champêtre,Espagne
+005c,050p,Orme du Caucase,Turquie
+020c,051p,Orme pleureur,Pologne
+001c,052p,Pin Napoléon,Chine
+021c,053p,Pin noir,Slovénie
+022c,054p,Pistachier térébinthe,Maroc
+001c,055p,Plaqueminier,Chine
+003c,056p,Plaqueminier de Virginie,USA
+016c,058p,Plaqueminier lotier,Iran
+019c,059p,Platane commun,Espagne
+005c,060p,Platane d'Orient,Turquie
+023c,061p,Platane de Chypre,Chypre
+003c,062p,Robinier faux-acacia,USA
+001c,063p,Saule pleureur,Chine
+001c,064p,Savonnier,Chine
+003c,065p,Séquoia géant,USA
+003c,066p,Séquoia toujours vert,USA
+010c,067p,Sophora du Japon,Japon
+008c,068p,Tamaris de France,France
+006c,069p,Tilleul argenté,Hongrie
+008c,070p,Tulipier de Virginie,France
+target,source,label_source,label_target
