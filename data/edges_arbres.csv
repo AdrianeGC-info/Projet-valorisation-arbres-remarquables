@@ -1,3 +1,4 @@
+target,source,label_source,label_target
 001c,001p,Arbre à gomme,Chine
 001c,002p,Arbre aux pochettes d'argent,Chine
 001c,003p,Arbre aux quarante écus,Chine
@@ -66,4 +67,3 @@
 008c,068p,Tamaris de France,France
 006c,069p,Tilleul argenté,Hongrie
 008c,070p,Tulipier de Virginie,France
-target,source,label_source,label_target

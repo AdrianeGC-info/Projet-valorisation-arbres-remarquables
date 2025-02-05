@@ -1,0 +1,93 @@
+id,title,shape,color,value
+1,Arbre à gomme,diamond,green,2
+2,Arbre aux pochettes d'argent,diamond,green,1
+3,Arbre aux quarante écus,diamond,green,8
+4,Aulne à feuilles en cœur,diamond,green,1
+5,Bouleau noir,diamond,green,1
+6,Catalpa commun,diamond,green,1
+7,Catalpa du Nord,diamond,green,1
+8,Cèdre à encens,diamond,green,2
+9,Cèdre bleu du Liban,diamond,green,2
+10,Cèdre du Liban,diamond,green,6
+11,Cédrèle de Chine,diamond,green,1
+12,Chêne chevelu,diamond,green,2
+13,Chêne de Hongrie,diamond,green,2
+14,Chêne liège,diamond,green,1
+15,Chêne pédonculé,diamond,green,2
+16,Chêne vert,diamond,green,4
+17,Chicot du Canada,diamond,green,2
+18,Cryptomère du Japon,diamond,green,1
+19,Cyprès chauve,diamond,green,4
+20,Désespoir des singes,diamond,green,1
+21,Érable à feuilles d'obier,diamond,green,1
+22,Érable argenté,diamond,green,1
+23,Érable de Cappadoce,diamond,green,1
+24,Erable de Montpellier,diamond,green,2
+25,Érable sycomore,diamond,green,1
+26,Figuier,diamond,green,2
+27,Frêne commun,diamond,green,1
+28,Grenadier commun,diamond,green,1
+29,Hêtre 'riversii',diamond,green,1
+30,Hêtre commun,diamond,green,2
+31,Hêtre pleureur,diamond,green,3
+32,Hêtre pourpre,diamond,green,2
+34,Hêtre tortueux,diamond,green,2
+35,If commun,diamond,green,4
+36,Magnolias à grandes fleurs,diamond,green,6
+37,Margousier,diamond,green,1
+38,Marronnier de Virginie,diamond,green,1
+39,Marronniers d'Inde,diamond,green,8
+40,Métaséquoia,diamond,green,1
+41,Micocoulier de Corée,diamond,green,1
+42,Micocoulier de Provence,diamond,green,1
+43,Mûrier blanc,diamond,green,1
+44,Mûrier commun,diamond,green,1
+45,Noisetier de Byzance,diamond,green,6
+46,Noyer de Chine,diamond,green,1
+47,Noyer du Caucase,diamond,green,6
+48,Noyer noir,diamond,green,1
+49,Oranger des Osages,diamond,green,1
+50,Orme champêtre,diamond,green,1
+51,Orme du Caucase,diamond,green,4
+52,Orme pleureur,diamond,green,1
+53,Pin Napoléon,diamond,green,1
+54,Pin noir,diamond,green,2
+55,Pistachier térébinthe,diamond,green,1
+56,Plaqueminier,diamond,green,1
+57,Plaqueminier de Virginie,diamond,green,1
+58,Plaqueminier lotier,diamond,green,3
+59,Platane commun,diamond,green,39
+60,Platane d'Orient,diamond,green,6
+61,Platane de Chypre,diamond,green,1
+62,Robinier faux-acacia,diamond,green,1
+63,Saule pleureur,diamond,green,2
+64,Savonnier,diamond,green,1
+65,Séquoia géant,diamond,green,5
+66,Séquoia toujours vert,diamond,green,2
+67,Sophora du Japon,diamond,green,2
+68,Tamaris de France,diamond,green,1
+69,Tilleul argenté,diamond,green,1
+70,Tulipier de Virginie,diamond,green,4
+71,Chine,circle,red,13
+72,Corse,circle,orange,1
+73,USA,circle,darkred,13
+74,Liban,circle,darkorange,2
+75,Turquie,circle,purple,4
+76,Hongrie,circle,purple,2
+77,Portugal,circle,darkgreen,1
+78,France,circle,blue,13
+79,Canada,circle,grey,1
+80,Japon,circle,lightred,2
+81,Chili,circle,red,1
+82,Italie,circle,grey,1
+83,Géorgie,circle,orange,1
+84,Azerbaïdjan,circle,lightgreen,1
+85,Allemagne,circle,black,1
+86,Iran,circle,darkblue,3
+87,Inde,circle,darkpurple,2
+88,Corée du Sud,circle,lightpurple,1
+89,Espagne,circle,pink,2
+90,Pologne,circle,darkgrey,1
+91,Slovénie,circle,lightgrey,1
+92,Maroc,circle,brown,1
+93,Chypre,circle,darkbrown,1
